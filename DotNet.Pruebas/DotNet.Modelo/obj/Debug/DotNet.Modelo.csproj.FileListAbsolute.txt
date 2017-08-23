@@ -1,0 +1,10 @@
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Modelo\bin\Debug\DotNet.Modelo.dll.config
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Modelo\bin\Debug\DotNet.Modelo.dll
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Modelo\bin\Debug\DotNet.Modelo.pdb
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Modelo\bin\Debug\EntityFramework.dll
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Modelo\bin\Debug\EntityFramework.xml
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Modelo\obj\Debug\DotNet.Modelo.dll
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Modelo\obj\Debug\DotNet.Modelo.pdb
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Modelo\obj\Debug\DotNet.Modelo.csprojResolveAssemblyReference.cache

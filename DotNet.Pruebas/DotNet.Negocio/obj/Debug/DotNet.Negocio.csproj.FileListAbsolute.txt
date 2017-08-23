@@ -1,0 +1,13 @@
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\bin\Debug\DotNet.Negocio.dll
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\bin\Debug\DotNet.Negocio.pdb
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\bin\Debug\DotNet.Datos.dll
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\bin\Debug\DotNet.Modelo.dll
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\bin\Debug\DotNet.Datos.pdb
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\bin\Debug\DotNet.Datos.dll.config
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\bin\Debug\DotNet.Modelo.pdb
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\bin\Debug\DotNet.Modelo.dll.config
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\obj\Debug\DotNet.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\obj\Debug\DotNet.Negocio.dll
+C:\Users\ANFEXI\Documents\Visual Studio 2017\Projects\DotNet.Pruebas\DotNet.Negocio\obj\Debug\DotNet.Negocio.pdb
